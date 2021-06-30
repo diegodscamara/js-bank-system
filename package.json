@@ -1,0 +1,20 @@
+{
+  "name": "js-bank-system",
+  "version": "1.0.0",
+  "description": "Master the most used programming paradigm on the market Understand what references and objects are Use attributes, methods of the instance and the class Define objects through constructors learn about encapsulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegodscamara/js-bank-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegodscamara/js-bank-system/issues"
+  },
+  "homepage": "https://github.com/diegodscamara/js-bank-system#readme",
+  "type": "module"
+}
