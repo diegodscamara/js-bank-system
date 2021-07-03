@@ -11,8 +11,7 @@
 
 ## About the project 
 
-**Banking system created to practice the following JS skills:
-**
+**Banking system created to practice the following JS skills:**
 - Master the most used programming paradigm on the market
 - Understand what references and objects are
 - Use attributes, methods of the instance and the class
@@ -75,7 +74,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Author: Diego Câmara
-Email: [diegodscamara@gmail.com](mailto:diegodscamara@gmail.com "diegodscamara@gmail.com")
-LinkedIn: https://www.linkedin.com/in/diegodscamara/ 
-Project Link: https://github.com/diegodscamara/js-bank-system.git
+- Author: Diego Câmara
+- Email: [diegodscamara@gmail.com](mailto:diegodscamara@gmail.com "diegodscamara@gmail.com")
+- LinkedIn: https://www.linkedin.com/in/diegodscamara/ 
+- Project Link: https://github.com/diegodscamara/js-bank-system.git
