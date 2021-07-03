@@ -1,13 +1,13 @@
 # JSBanking system - Alura Project 
 
 **Table of Contents**
-1. About The Project
-	- Built with
-2. Getting Started
-	- Installation
-3. Usage
-4. Contributing
-5. Contact
+1. [About The Project](https://github.com/diegodscamara/js-bank-system/blob/main/README.md#about-the-project "About The Project")
+	- [Built with](https://github.com/diegodscamara/js-bank-system/blob/main/README.md#built-with "Built with")
+2. [Getting Started](https://github.com/diegodscamara/js-bank-system/blob/main/README.md#getting-started "Getting Started")
+	- [Installation](https://github.com/diegodscamara/js-bank-system/blob/main/README.md#installation "Installation")
+3. [Usage](https://github.com/diegodscamara/js-bank-system/blob/main/README.md#usage "Usage")
+4. [Contributing](https://github.com/diegodscamara/js-bank-system/blob/main/README.md#contributing "Contributing")
+5. [Contact](https://github.com/diegodscamara/js-bank-system/blob/main/README.md#contact "Contact")
 
 ## About the project 
 
