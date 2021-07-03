@@ -57,7 +57,7 @@ To get a local copy up and running follow these simple example steps.
 
 **The account has the following class specifications and functions:**
 - Initial balance
-- Cleint
+- Client
 - Agency
 - Withdraw 
 - Deposit
@@ -68,8 +68,8 @@ To get a local copy up and running follow these simple example steps.
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 - Fork the Project
-- Commit your Changes <pre>(git commit -m 'Add something')</pre>
-- Push to the Branch <pre>(git push)</pre>
+- Commit your Changes <pre>git commit -m 'Add something'</pre>
+- Push to the Branch <pre>git push</pre>
 - Open a Pull Request
 
 ## Contact
