@@ -1,4 +1,4 @@
-# JSBanking system - Alura Project 
+# JSBanking System - Alura Project 
 
 **Table of Contents**
 1. [About The Project](https://github.com/diegodscamara/js-bank-system/blob/main/README.md#about-the-project "About The Project")
